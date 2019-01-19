@@ -1,0 +1,31 @@
+{
+  "name": "bede",
+  "version": "0.0.1",
+  "description": "a download manager for no one",
+  "main": "src/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajlajlajl/bede.git"
+  },
+  "keywords": [
+    "download",
+    "manager"
+  ],
+  "author": "ajl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajlajlajl/bede/issues"
+  },
+  "homepage": "https://github.com/ajlajlajl/bede#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "electron": "^4.0.1",
+    "lodash": "^4.17.11"
+  }
+}
